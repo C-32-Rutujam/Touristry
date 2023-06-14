@@ -1,2 +1,9 @@
 # Touristry
-The main objective of the Tourism Management System is to manage the details of Customer, Hotel Booking, Cancellation and Tourism places. It manages all the information about Users, Hotel, Packages etc. The project is totally built at the administrative end and thus only the administrator is guaranteed access to the backend database. 
+The main objective of the Tourism Management System is to manage the details of Customer, Hotel Booking, Cancellation and Tourism places. It manages all the information about Users, Hotel, Packages etc. The project is totally built at the administrative end and thus only the administrator is guaranteed access to the backend database. The purpose of this project is to build an application program to reduce the manual work for managing Tourists, Booking, Places etc.
+
+This application will help in accessing the information related to the travel to the particular destination with great ease. The users can track the information related
+to their tours with great ease through this application. The travel agency information can also be obtained through this application.The proposed method is highly automated using this technology, which greatly eases and adapts the traveling operations. The user can obtain the ideal knowledge at the ideal moment. This system will have all the fields that are necessary for making an online reservation. Anybody may use this system because it is simple to operate. The fundamental concept of this project is to save data in a central database that can be accessed by any authorized individual to receive information, hence reducing the time and burden that their customers must endure.
+
+This system's database contains information that administrators may access and alter, including adding and updating details. This allows for accurate information to be provided while also minimizing manual labor and work linked to documentation. gives current information. Finally, users will receive a booking confirmation notification.
+
+Tourists can register by providing personal details, make new reservations and book only one hotel and package and can make cancellation.
